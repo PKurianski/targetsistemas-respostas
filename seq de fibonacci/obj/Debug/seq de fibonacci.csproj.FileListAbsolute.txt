@@ -1,0 +1,7 @@
+D:\GITRepo\targetsistemas respostas\seq de fibonacci\obj\Debug\seq de fibonacci.csproj.AssemblyReference.cache
+D:\GITRepo\targetsistemas respostas\seq de fibonacci\obj\Debug\seq de fibonacci.csproj.CoreCompileInputs.cache
+D:\GITRepo\targetsistemas respostas\seq de fibonacci\bin\Debug\seq de fibonacci.exe.config
+D:\GITRepo\targetsistemas respostas\seq de fibonacci\bin\Debug\seq de fibonacci.exe
+D:\GITRepo\targetsistemas respostas\seq de fibonacci\bin\Debug\seq de fibonacci.pdb
+D:\GITRepo\targetsistemas respostas\seq de fibonacci\obj\Debug\seq de fibonacci.exe
+D:\GITRepo\targetsistemas respostas\seq de fibonacci\obj\Debug\seq de fibonacci.pdb

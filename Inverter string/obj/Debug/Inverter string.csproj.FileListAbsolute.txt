@@ -1,0 +1,6 @@
+D:\GITRepo\targetsistemas respostas\Inverter string\bin\Debug\Inverter string.exe.config
+D:\GITRepo\targetsistemas respostas\Inverter string\bin\Debug\Inverter string.exe
+D:\GITRepo\targetsistemas respostas\Inverter string\bin\Debug\Inverter string.pdb
+D:\GITRepo\targetsistemas respostas\Inverter string\obj\Debug\Inverter string.csproj.CoreCompileInputs.cache
+D:\GITRepo\targetsistemas respostas\Inverter string\obj\Debug\Inverter string.exe
+D:\GITRepo\targetsistemas respostas\Inverter string\obj\Debug\Inverter string.pdb

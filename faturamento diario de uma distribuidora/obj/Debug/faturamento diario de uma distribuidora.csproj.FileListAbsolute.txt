@@ -1,0 +1,2 @@
+D:\GITRepo\targetsistemas respostas\faturamento diario de uma distribuidora\obj\Debug\faturamento diario de uma distribuidora.csproj.AssemblyReference.cache
+D:\GITRepo\targetsistemas respostas\faturamento diario de uma distribuidora\obj\Debug\faturamento diario de uma distribuidora.csproj.CoreCompileInputs.cache

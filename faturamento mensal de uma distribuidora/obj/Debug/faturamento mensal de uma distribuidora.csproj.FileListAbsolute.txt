@@ -1,0 +1,7 @@
+D:\GITRepo\targetsistemas respostas\faturamento mensal de uma distribuidora\bin\Debug\faturamento mensal de uma distribuidora.exe.config
+D:\GITRepo\targetsistemas respostas\faturamento mensal de uma distribuidora\bin\Debug\faturamento mensal de uma distribuidora.exe
+D:\GITRepo\targetsistemas respostas\faturamento mensal de uma distribuidora\bin\Debug\faturamento mensal de uma distribuidora.pdb
+D:\GITRepo\targetsistemas respostas\faturamento mensal de uma distribuidora\obj\Debug\faturamento mensal de uma distribuidora.csproj.AssemblyReference.cache
+D:\GITRepo\targetsistemas respostas\faturamento mensal de uma distribuidora\obj\Debug\faturamento mensal de uma distribuidora.csproj.CoreCompileInputs.cache
+D:\GITRepo\targetsistemas respostas\faturamento mensal de uma distribuidora\obj\Debug\faturamento mensal de uma distribuidora.exe
+D:\GITRepo\targetsistemas respostas\faturamento mensal de uma distribuidora\obj\Debug\faturamento mensal de uma distribuidora.pdb
